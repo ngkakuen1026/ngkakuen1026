@@ -4,9 +4,7 @@ I'm Alan Ng from Hong Kong, and I love develop web development. I enjoy laerning
 Hope I can find a job in my future career!
 
 ## Skills
-* 🌐 HTML
-* #️⃣ CSS
-* JavaScript
+* 🖥️ HTML, CSS, JavaScript
 * 🅱️ Bootstrap CSS
 * ⚛ React JS
 * 🛢 PostgreSQL (basic SQL command)
