@@ -1,6 +1,6 @@
-### Hi everyone👋, I am Alan Ng
+### Hi everyone👋, I am Alan
 
-I'm Alan Ng from Hong Kong, and I love develop web development. I enjoy laerning and using different library and framework like React to develop project (will keep commiting to GitHub).
+I'm Alan from Hong Kong, and I love develop web development. I enjoy laerning and using different library and framework like React to develop project (will keep commiting to GitHub).
 Hope I can find a job in my future career!
 
 ## Skills
