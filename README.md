@@ -10,10 +10,12 @@ Hope I can find a job in my future career!
 * 🛢 PostgreSQL (basic SQL command)
 
 ## Projects
-1) Recipe App Web </br>
+1) Recipe Web App </br>
     Git link: https://github.com/ngkakuen1026/React_Simple-Recipe-Web-App </br>
     Simple Recipe Web App using Bootstrap CSS and ReactJS 
-2) 
+2) Expenses Tracker Web App </br>
+    Git link: https://github.com/ngkakuen1026/react-expensetrackingapp </br>
+    Simple Expenses Tracker Web App using TailwindCSS, ReactJS and LocalStorage
 
 
 - 🔭 I’m currently available
